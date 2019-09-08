@@ -1,0 +1,13 @@
+[
+    {
+        "subject": "pyxisdefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "guide_sort": "0,247f8f41-4da9-4749-bb84-56ee1f2d6da5",
+        "local": {
+            "id": "0"
+        }
+    }
+]

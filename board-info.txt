@@ -1,0 +1,3 @@
+require version-baseband=4.0.2.c8-00027-SDM710_GEN_PACK-1.261457.1.262084.1
+require version-trustzone=TZ.XF.5.0.2.C5-00003
+require version-vendor=1583678388
